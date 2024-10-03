@@ -1,0 +1,17 @@
+//teext!
+
+using System;
+
+public class Main
+{
+int i;
+
+
+public Main()
+{
+i = 1;
+Console.WriteLine("wheres nothing in this repository! onle one int variable ! it called i");
+}
+
+
+}
